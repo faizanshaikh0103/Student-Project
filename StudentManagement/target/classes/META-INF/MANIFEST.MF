@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: StudentManagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Faizan Shaikh
+Implementation-Vendor-Id: com.studentdemo
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://spring.io/projects/spring-boot/StudentMana
+ gement
+Created-By: Maven Integration for Eclipse
+
